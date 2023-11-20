@@ -1,11 +1,11 @@
 <h1 align="center">Oi 👋, eu sou Luiz</h1>
-<h3 align="center">Um fã incondicional de ciência e análise de dados no universo digital</h3>
+<h3 align="center">Um fã incondicional técnologia e análises</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizoiw&label=Profile%20views&color=0e75b6&style=flat" alt="luizoiw" /> </p>
 
-- 🔭 Atualmente estou atuando como suporte com foco em Python e SQL no produto: **Autosystem**
+- 🔭 Atualmente estou atuando como Analista de Suporte e Sistemas com foco em Python e SQL no produto: **Autosystem**
 
-- 🌱 Estou sempre estudando e buscando crescer na área de dados com: **Data, SQL, python, análise**
+- 🌱 Estou sempre estudando e buscando crescer na área atualmente focado em: **Data, SQL, python, JavaScript**
 
 - 👨‍💻 Meus projetos podem ser conferidos aqui: [https://github.com/Luizoiw/Luizoiw](https://github.com/Luizoiw/Luizoiw)
 
